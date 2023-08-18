@@ -1,0 +1,1 @@
+var urn%3D"undefined"!%3Dtypeof dataLayer%3FdataLayer%5B0%5D.G5_CLIENT_ID:G5Header.dashboard_notifications_view_url.match(/https:%5C/%5C/g5marketingcloud.com%5C/notifications%5C/(.*)/)%5B1%5D%3Bwindow.open("https://hub.g5marketingcloud.com/admin/clients/"%2Burn)%3B
